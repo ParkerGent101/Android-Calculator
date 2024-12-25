@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color for operator buttons -->
+    <solid android:color="#FFA500" /> <!-- Orange color like iOS -->
+
+    <!-- Corner radius to round the edges -->
+    <corners android:radius="15dp" />
+
+    <!-- Optional padding -->
+    <padding
+        android:left="5dp"
+        android:top="5dp"
+        android:right="5dp"
+        android:bottom="5dp" />
+
+    <!-- Optional stroke for button borders -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- White border -->
+</shape>
